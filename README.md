@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://www.ej-technologies.com/assets/design/logos/logo-jprofiler-f1e63da182906bdba3404e8e59ddd7cf.svg" width="200" alt="EJ Technologies JProfiler macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/EJ%20Technologies%20JProfiler">
+ <a href="https://gnomik-gomik-apps.github.io/.github/EJ%20Technologies%20JProfiler">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open EJ Technologies JProfiler macOS page">
  </a><br><br>
  <div align="center">
